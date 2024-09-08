@@ -16,7 +16,7 @@ $(document).ready(function () {
         desc: "If you  uncomfortable just, sorry... maybe thats all from me, hehe thanks for reading feel"
     }, {
         title: "I Have Crush On You!!",
-        desc: "I will wait for your reply :)"
+        desc: "hihi :)"
  }];
     var currentPage = 0;
     //generate content
